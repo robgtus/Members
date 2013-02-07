@@ -1,0 +1,211 @@
+body {
+  background: url(images/background.png) repeat-x #e6e3dc;
+  margin: 0;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #9bb50b;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #728507;
+  text-decoration: underline;
+}
+
+#wrapper {
+  width: 900px;
+  margin: 0 auto;
+}
+
+#header {
+
+}
+
+#logo {
+  background: url(images/logo.png) no-repeat;
+  width: 335px;
+  height: 50px;
+  margin-top: 17px;
+  margin-left: 7px;
+}
+
+#updates {
+  color: #e6e3dc;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  padding-top: 5px;
+ }
+
+#updates span {
+  font-size: 13px;
+}
+
+#login {
+  background: url(images/loginbg.png);
+  width: 356px;
+  height: 73px;
+  position: relative;
+  top: -71px;
+  left: 560px;
+  color: #e6e3dc;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+#regpage {
+  width: 356px;
+  height: 150px;
+  color: #000000;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+#loginwelcome {
+  padding-left: 20px;
+  padding-top: 15px;
+}
+
+#login form {
+  padding-left: 20px;
+}
+
+#login .username {
+  border: none;
+  background: url(images/formfield.png) transparent no-repeat;
+  width: 131px;
+  height: 21px;
+  color: #859c0a;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  text-indent: 4px;
+  font-size: 13px;
+}
+
+
+#regpage .item {
+  border: none;
+  background: url(images/formfield.png) transparent no-repeat;
+  width: 131px;
+  height: 21px;
+  color: #859c0a;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  text-indent: 4px;
+  font-size: 13px;
+}
+
+
+#login .password {
+  border: none;
+  background: url(images/formfield.png) transparent no-repeat;
+  width: 131px;
+  height: 21px;
+  color: #859c0a;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  text-indent: 4px;
+  font-size: 13px;
+}
+
+#login .submit {
+  border: none;
+  background: none;
+  width: 50px;
+  font-family: "Myriad Pro", Arial, Helvetica, sans-serif;
+  color: #e6e3dc;
+  font-size: 15px;
+}
+
+ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	}
+
+#navigation {
+float:right;
+  font-size:12px;
+  margin-top: -18px;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+}
+
+
+#navigation li {
+  float:left;
+  margin-right: 3px;
+}
+
+#navigation li a{
+  display: block;
+  text-decoration: none;
+  color: #000;
+  width: 70px;
+  height: 24px;
+  text-align: center;
+  padding-top: 5px;
+}
+
+
+#navigation li a:hover {
+	background: url(images/button.jpg) no-repeat;}
+
+#navigation .on {
+	background: url(images/button.jpg) no-repeat;}
+
+#content {
+  background: url(images/contentback.jpg) repeat-x #FFFFFF;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+#content h2 {
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  font-size: 23px;
+  color: #9bb50b;
+  margin: 0;
+  margin-top: 10px;
+}
+
+#content p {
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  padding-left: 15px;
+  margin: 0;
+  width: 95%;
+}
+
+#content td {
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  padding-left: 15px;
+  margin: 0;
+  width: 95%;
+}
+
+#stock {
+  margin: 0 auto;
+  margin-top: 15px;
+  width: 78%;
+}
+
+#footer {
+  background: url(images/footback.png) no-repeat;
+  height: 22px;
+  font-family: "Tahoma", Arial, Helvetica, sans-serif;
+  font-size:14px;
+  color: #FFFFFF;
+  margin-bottom: 9px;
+}
+
+#footertext {
+  width: 100%;
+  text-align: center;
+}
+
+#footertext a {
+  color: #000000;
+  text-decoration: none;
+}
+
+#footertext a:hover {
+  color: #728507;
+  text-decoration: underline;
+}

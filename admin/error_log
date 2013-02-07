@@ -1,0 +1,6 @@
+[06-Feb-2013 17:40:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/localvie/public_html/TestGit/admin/index.php on line 19
+[06-Feb-2013 17:40:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/localvie/public_html/TestGit/admin/index.php on line 19
+[06-Feb-2013 17:40:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/localvie/public_html/TestGit/admin/index.php on line 19
+[06-Feb-2013 17:40:49 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/localvie/public_html/TestGit/admin/index.php on line 129
+[06-Feb-2013 17:46:07 America/Chicago] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: email not found in MySQL result index 6 in /home/localvie/public_html/TestGit/admin/index.php on line 82
+[06-Feb-2013 17:46:46 America/Chicago] PHP Warning:  mysql_result() [<a href='function.mysql-result'>function.mysql-result</a>]: email not found in MySQL result index 6 in /home/localvie/public_html/TestGit/admin/index.php on line 82
